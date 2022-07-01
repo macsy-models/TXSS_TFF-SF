@@ -16,7 +16,7 @@ for more details.
     <gene name="T3SS_sctC" presence="mandatory">        
         <exchangeables>
     	    <gene name="T2SS_gspD"/>
-    	    <gene name="T4P_pilQ"/>
+    	    <gene name="T4aP_pilQ"/>
     	    <gene name="Tad_rcpA"/>
         </exchangeables>
     </gene>
