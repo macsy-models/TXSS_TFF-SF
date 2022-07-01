@@ -9,7 +9,7 @@ The systems that can be detected are the following:
 - T1SS: the type I secretion system 
 - T2SS: the type II secretion system  
 - T3SS: the type III secretion system  
-- T4P: the type IV pilus, sometimes also called the Type IVa pilus
+- T4aP: the type IV pilus, sometimes also called the Type IVa pilus
 - T4bP: the type IVb pilus, comprising the R64 thin pilus, toxin-coregulated pilus (TCP), bundle-forming pilus (Bfp), longus pilus, and Cof pilus
 - pT4SSt, pT4SSi: two different types of type IV secretion systems involved in protein secretion (based on Mating Pair Formation type t and i respectively).
 - T5aSS, T5bSS, T5cSS: three different types of type V secretion system, namely the autotransporter (T5aSS), the two-partner secretion system (T5bSS) and the trimeric secretion system (T5cSS). 
