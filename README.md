@@ -19,7 +19,7 @@ The systems that can be detected are the following:
 - T9SS: the type IX secretion system
 
 
-This set of models corresponds to those published in 2016 in Scientific Reports (see below for full reference), updated to the format to enable systems search with **MacSyFinder version 2**. 
+This set of models corresponds to those published in 2016 in Scientific Reports and in 2019 in Plos Biology (see below for full reference), updated to the format to enable systems search with **MacSyFinder version 2**. 
 
 
 ## Installation and Usage with MacSyFinder
@@ -29,14 +29,14 @@ First, the `macsyfinder` program should be [installed](http://macsyfinder.readth
 
 The basic commands to run are then:
 
-    macsydata install TXSS
+    macsydata install TXSS_TFF-SF
 
 
-to install the TXSS package. 
+to install the TXSS_TFF-SF package. 
 
     macsyfinder --db-type ordered_replicon \
 		--sequence-db myproteins.fasta \
-		--models TXSS system 		
+		--models TXSS_TFF-SF system 		
 
 
 to run the search on your favorite organism's genom, where `system` is one or multiple systems listed above, or `all` to search for all the above listed systems
